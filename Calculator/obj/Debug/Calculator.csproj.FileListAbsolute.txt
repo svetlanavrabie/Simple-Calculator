@@ -1,0 +1,30 @@
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\App.g.cs
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\MainWindow.baml
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.g.resources
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\App.g.cs
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\MainWindow.baml
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.g.resources
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\aec\mes_cours\ProjetC#\Calculator\Calculator\obj\Debug\Calculator.pdb
